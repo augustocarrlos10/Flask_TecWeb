@@ -57,7 +57,7 @@ w) Flask Boilerplate
 
 x) Flask set environment production
 
-## Links últeis:
+## Links úteis:
 
 - [https://flask.palletsprojects.com/en/2.0.x/tutorial/index.html](https://flask.palletsprojects.com/en/2.0.x/tutorial/index.html)
 
